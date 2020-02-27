@@ -1,0 +1,30 @@
+.navbar-inverse {
+  background-color: rgb(141, 7, 123);
+  color: #fff;
+}
+
+.navbar-brand {
+  color: white;
+}
+.sub-menu {
+  margin-top: 3rem;
+}
+
+.add-space {
+  margin-bottom: 5rem;
+}
+
+footer {
+  background-color: rgb(141, 7, 123);
+  padding: 2rem;
+  color: white;
+  width: 100%;
+}
+
+.carousel-caption h1 {
+  text-shadow: rgb(141, 7, 123) 2px 2px 3px;
+}
+.btn-default{
+	background:rgb(141, 7, 123);
+	color:white;
+}
